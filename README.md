@@ -35,7 +35,7 @@ they're the same instinct pointed at different problems.
 
 ---
 
-📌 **[→ See my macOS IT Infrastructure Portfolio](./TristamTech.github.io)**
+📌 **[→ See my macOS IT Infrastructure Portfolio](https://tristamtech.github.io)**
 
 Reach me: [LinkedIn](https://www.linkedin.com/in/tristam-bedlow/)
 
